@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini 图像结构化提取"
+  short_description: "批量图片转结构化 JSON，内置安全鉴权、并发与重试"
+  default_prompt: "Use $gemini-vision-extract to extract structured JSON from these images using my prompt and schema."
